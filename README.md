@@ -4,7 +4,7 @@
 
 Welcome to my personal portfolio, AspireNex! This project showcases my skills, projects, and contact information in a visually appealing and user-friendly manner. It is built using HTML, CSS, and JavaScript to ensure responsiveness and cross-browser compatibility.
 
-![Portfolio Screenshot](https://raw.githubusercontent.com/yourusername/yourrepository/main/images/screenshot.png)
+![Portfolio Screenshot](https://github.com/dpit2024/AspireNex/blob/main/packages/images/Screenshot.png?raw=true)
 
 ## Features
 
